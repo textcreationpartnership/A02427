@@ -35,7 +35,10 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-Another godly letter, lately written to the same H.H. by his owne sister out of the countrey, about 
+
+1. Another godly Letter, lately written to the ſame H H by his owne Siſter
+out of the Countrey, about eighty miles from London.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
